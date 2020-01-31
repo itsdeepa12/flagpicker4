@@ -18,3 +18,9 @@
 
 ### DisplayFlags 
 > Component to display the flag
+
+##How to start the app
+>Npm install to install all dependencies
+>npm start to start the application
+>localhost:3000 port listens the application
+
